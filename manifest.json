@@ -1,0 +1,19 @@
+{
+  "name": "Midarion",
+  "short_name": "Midarion",
+  "theme_color": "",
+  "background_color": "#6B18AA",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768986697-favicon.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
